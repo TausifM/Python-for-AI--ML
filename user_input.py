@@ -1,0 +1,6 @@
+n1=input('Enter First Number')
+n2=input('Enter Secon Number')
+print(n1, n2)
+print(type(n1))
+sumation = float(n1) + float(n2)
+print(sumation)
